@@ -2,9 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="725fdff5-37f4-429a-ade9-7a36464178df" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/img/logo/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/logo/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/client/client-logo-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/client/client-logo-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/client/client-logo-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/client/client-logo-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-3.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +34,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -30,6 +56,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -41,7 +68,8 @@
       <option name="presentableId" value="Default" />
       <updated>1718701868168</updated>
       <workItem from="1718701871007" duration="682000" />
-      <workItem from="1718704643333" duration="3821000" />
+      <workItem from="1718704643333" duration="8807000" />
+      <workItem from="1718717319391" duration="4306000" />
     </task>
     <servers />
   </component>
