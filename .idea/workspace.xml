@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="725fdff5-37f4-429a-ade9-7a36464178df" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/client/client-logo-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/client/client-logo-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/client/client-logo-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/client/client-logo-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
-    </list>
+    <list default="true" id="725fdff5-37f4-429a-ade9-7a36464178df" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +47,7 @@
       <updated>1718701868168</updated>
       <workItem from="1718701871007" duration="682000" />
       <workItem from="1718704643333" duration="8807000" />
-      <workItem from="1718717319391" duration="4306000" />
+      <workItem from="1718717319391" duration="5023000" />
     </task>
     <servers />
   </component>
