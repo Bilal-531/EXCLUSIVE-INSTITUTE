@@ -81,15 +81,11 @@ $(document).ready(function () {
         `
     };
 
-    // Event listener for when a portfolio item link is clicked
     $('.img[data-bs-toggle="modal"]').on('click', function(event) {
-        event.preventDefault(); // Prevent default link behavior
+        event.preventDefault();
 
-        // Get the target portfolio item (e.g., 'chul_urina', 'aura_dione')
-        var portfolioKey = $(this).attr('data-module_name'); // Remove '#' from ID
+        var portfolioKey = $(this).attr('data-module_name');
 
-        console.log(portfolioKey)
-        // Append the corresponding HTML content to the modal body
         $('#portfolio-1 .modal-body').html(portfolio[portfolioKey]);
     });
 });
